@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient( to left, #F5B7B1, #FAE5D3);
+    font-family: 'Moon Dance', cursive;
+    text-align: center;
+}
+
+.color-nav{
+    background-color: brown;
+}
+
+.home{
+    background-image: url('../img/material-cosmiatria.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
